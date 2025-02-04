@@ -67,4 +67,4 @@ c. ¿Cómo se codifican los datos internamente en el computador?
 
 d. ¿Cuáles son las unidades de medida de datos en un computador? Bit, Byte, etc.
 
-
+![computador](../images/27.png)
