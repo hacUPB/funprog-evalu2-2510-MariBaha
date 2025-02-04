@@ -1,7 +1,7 @@
 # Actividad de Investigacion 🚀
 1. ¿Qué es un computador? Escribe una definición oficial y la referencia bibliográfica. 
 
-R/ Es una máquina que procesa y ejecuta órdenes de diversa índole para dar como resultado un sinfín de tareas distintas, para funcionar necesita tener un hardware y software. El hardware son los elementos físicos como el teclado, el mouse, pantalla, cables, plaquetas, etc. El software son los programas, sistemas operativos y funciones instaladas que le dan vida y coordinan lo material para funcionar.
+R/ Es una máquina que procesa y ejecuta diversas ordenes para dar como resultado un sinfín de tareas distintas, para funcionar necesita tener un hardware y software. El hardware son los elementos físicos como el teclado, el mouse, pantalla, cables, placa base, etc. El software son los programas, sistemas operativos y funciones instaladas que le dan vida y coordinan el material para funcionar.
 
 Fuente: https://concepto.de/computador/#ixzz8zIS8Oq8N
 
@@ -31,10 +31,15 @@ Fuente:https://www.educaopen.com/digital-lab/metaterminos/a/arquitectura-de-orde
 Fuente:https://www.profesionalreview.com/2021/07/18/risc-vs-cisc/
 
 3. ¿Qué es el hardware? Incluye los más relevantes, te voy a dar algunos elementos, pero si encuentras más, los puedes incluir.
-a. CPU. Escribe una definición y sus partes más relevantes. 
+
+R/ El hardware es el conjunto de los componentes materiales, tangibles, de un computador o un sistema informático. Incluye todas las partes mecánicas, eléctricas y electrónicas.
+
+Fuente: https://concepto.de/hardware/#ixzz8zK0cRaNm
+
+a. CPU: La CPU representa una parte muy importante del sistema, en la que se hacen todos los cálculos de código binario del ordenador. Está compuesta de tres elementos: la memoria, la unidad aritmética lógica y la unidad o procesador de control.
       
-- ALU. Definición y función.
- - Unidad de control. Definición y función.
+- ALU (Unidad aritmetica logica):La ALU realiza todos los cálculos y comparaciones. Realiza seis funciones: suma, resta, multiplicación, división, operaciones booleanas (es decir: AND, OR y NOT) y comparaciones (menor que, igual a, mayor que). Sin embargo, en realidad solo realiza tres, ya que la resta, la multiplicación y la división son todas funciones de suma.
+ - Unidad de control: La unidad de control, o CU, es un circuito dentro del procesador de una computadora que dirige las operaciones . Indica a la memoria, la unidad lógica y los dispositivos de entrada y salida de la computadora cómo responder a las instrucciones del programa.
 - Registros. Definición y función.
 - Buses. Definición y función.
 
