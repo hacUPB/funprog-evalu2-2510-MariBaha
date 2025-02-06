@@ -21,7 +21,6 @@ Buses: Proporcionan canales de comunicación entre la CPU, la memoria y los disp
 
 Unidad de control: Coordina las operaciones entre la CPU, la memoria y los dispositivos de E/S. 
 
-Fuente:https://www.educaopen.com/digital-lab/metaterminos/a/arquitectura-de-ordenadores
 
 
 | Arquitectura CISC |Arquitectura RISC|
@@ -103,22 +102,50 @@ d.
 Buses de datos:
 es un tipo de bus de comunicación en el que se transmiten los datos entre los diferentes componentes de una computadora o sistema. 
 
-4. ¿Qué es el software?
+4. 
 
-a. Software de sistema.
+### Software
+ todo componente intangible (y no físico) que forma parte de dispositivos como computadoras, teléfonos móviles o tabletas y que permite su funcionamiento.
 
-b. Software de aplicación.
+Fuente: https://concepto.de/software/#ixzz8zRFxDlVM
 
-c. Software de desarrollo.
+a. Software de sistema: Programas que dan al usuario la capacidad de relacionarse con el sistema, para ejercer control sobre el hardware.
 
-5. Funcionamiento del computador:
+b. Software de aplicación: Diseñado para realizar una o más tareas específicas a la vez, puede ser automático o asistido.
+
+c. Software de desarrollo: Es un conjunto de herramientas y recursos que se utilizan para crear programas y aplicaciones informáticas. 
+
+5. 
+
+### Funciones del computador:
 
 a. ¿Qué procesos se llevan a cabo cuando se enciende una computadora?
 
+R/ Suministro de energía: Se activa la fuente de alimentación, proporcionando energía a los componentes.
+POST (Power-On Self-Test): La placa base verifica que el hardware funcione correctamente.
+BIOS/UEFI: El firmware busca el dispositivo de arranque (disco duro) y carga el gestor de arranque.
+Gestor de arranque: Carga el sistema operativo en la memoria RAM.
+Sistema operativo: Se carga el kernel, los controladores y los servicios necesarios.
+Inicio de sesión: El usuario ingresa sus credenciales para acceder a su cuenta.
+Escritorio y aplicaciones: Se carga el entorno de escritorio y el usuario puede usar la computadora.
+
 b. ¿Qué sucede desde que ingreso un dato a través del teclado, hasta que veo el resultado de la operación en la pantalla?
+
+R/ El proceso desde que ingresas un dato hasta que ves el resultado en la pantalla es una secuencia de pasos que involucran tanto al hardware (teclado, monitor, CPU, RAM, tarjeta gráfica) como al software (sistema operativo). 
 
 c. ¿Cómo se codifican los datos internamente en el computador?
 
+R/ Los datos se codifican internamente en una computadora mediante el sistema binario, que utiliza solo dos símbolos: 0 y 1. Esta representación se basa en el uso de impulsos eléctricos de alto y bajo voltaje para codificar la información.
+
 d. ¿Cuáles son las unidades de medida de datos en un computador? Bit, Byte, etc.
+
+R/
+Las unidades de medida de datos se utilizan para cuantificar la cantidad de información que se puede almacenar o transmitir en un computador. 
+
+Unidades básicas:
+
+Bit (b): Es la unidad más pequeña de información. Representa un 0 o un 1.
+
+Byte (B): Es un conjunto de 8 bits. Un byte puede representar un carácter, un número o una instrucción.
 
 ![computador](../images/27.png)
