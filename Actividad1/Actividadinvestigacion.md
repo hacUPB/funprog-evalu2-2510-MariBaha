@@ -36,23 +36,72 @@ R/ El hardware es el conjunto de los componentes materiales, tangibles, de un co
 
 Fuente: https://concepto.de/hardware/#ixzz8zK0cRaNm
 
-a. CPU: La CPU representa una parte muy importante del sistema, en la que se hacen todos los cálculos de código binario del ordenador. Está compuesta de tres elementos: la memoria, la unidad aritmética lógica y la unidad o procesador de control.
+a. 
+
+### CPU
+La CPU representa una parte muy importante del sistema, en la que se hacen todos los cálculos de código binario del ordenador. Está compuesta de tres elementos: la memoria, la unidad aritmética lógica y la unidad o procesador de control.
       
 - ALU (Unidad aritmetica logica):La ALU realiza todos los cálculos y comparaciones. Realiza seis funciones: suma, resta, multiplicación, división, operaciones booleanas (es decir: AND, OR y NOT) y comparaciones (menor que, igual a, mayor que). Sin embargo, en realidad solo realiza tres, ya que la resta, la multiplicación y la división son todas funciones de suma.
  - Unidad de control: La unidad de control, o CU, es un circuito dentro del procesador de una computadora que dirige las operaciones . Indica a la memoria, la unidad lógica y los dispositivos de entrada y salida de la computadora cómo responder a las instrucciones del programa.
-- Registros. Definición y función.
-- Buses. Definición y función.
+- Registros: Un registro es un conjunto de información demográfica que representa a un individuo (por ejemplo, una persona) o a un objeto (por ejemplo, un coche, una pieza de una máquina o una organización).
+- Buses: Es el concepto que se refiere a un sistema digital que permite la transferencia de datos entre los componentes de un ordenador.
 
-b. Memoria
+b. 
 
-- Registros.
- - Caché.
- - Principal (RAM).
- - Secundaria (Disco duro y unidades externas de almacenamiento).
+### Tipos de memoria en un sistema informatico:
 
-c. Dispositivos de entrada / salida.
+Registros
 
-d. Buses de datos.
+Ubicación: Dentro de la Unidad Central de Procesamiento (CPU).
+Función: Almacenan datos e instrucciones que la CPU necesita de forma inmediata para realizar operaciones.
+Características:
+Velocidad: La memoria más rápida del sistema.
+Capacidad: Muy limitada, solo unos pocos bytes.
+Volatilidad: Sí, los datos se pierden al apagar el sistema.
+
+Caché
+
+Ubicación: Entre la CPU y la memoria principal (RAM).
+Función: Almacena datos e instrucciones de uso frecuente para que la CPU pueda acceder a ellos más rápidamente.
+Características:
+Velocidad: Muy rápida, aunque no tanto como los registros.
+Capacidad: Mayor que los registros, pero aún limitada (varios megabytes).
+Volatilidad: Sí, los datos se pierden al apagar el sistema.
+
+Memoria principal (RAM)
+
+Ubicación: En módulos separados de la CPU.
+Función: Almacena los datos y programas que la CPU está utilizando en un momento dado.
+Características:
+Velocidad: Más lenta que la caché y los registros, pero mucho más rápida que la memoria secundaria.
+Capacidad: Mucho mayor que la caché y los registros (varios gigabytes).
+Volatilidad: Sí, los datos se pierden al apagar el sistema.
+
+Memoria secundaria
+
+Ubicación: Dispositivos de almacenamiento externos a la CPU, como discos duros (HDD o SSD) y unidades de almacenamiento extraíbles (USB, tarjetas de memoria, etc.).
+Función: Almacena datos y programas de forma permanente, incluso cuando el sistema está apagado.
+Características:*
+Velocidad: La más lenta de todas las memorias.
+Capacidad: La más grande de todas (varios terabytes).
+Volatilidad: No, los datos se conservan al apagar el sistema.
+
+c. 
+### Dispositivos de entrada / salida: 
+Dispositivos de entrada 
+Teclado
+Mouse
+Micrófono
+Escáner
+Cámara web
+Palanca de mando
+Gamepad o controlador de videojuego
+Dispositivos de salida 
+Pantalla, Impresora, Altavoz, Tarjeta gráfica, Bocinas, Auriculares.
+
+d. 
+Buses de datos:
+es un tipo de bus de comunicación en el que se transmiten los datos entre los diferentes componentes de una computadora o sistema. 
 
 4. ¿Qué es el software?
 
