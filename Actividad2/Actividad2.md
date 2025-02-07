@@ -8,13 +8,13 @@
 
 R/ los datos se representan mediante un sistema binario (usando los digitos 0 y 1, osea Bits). 
 
-#### Letras 🔠
+#### Letras 
 Se representan mediante codigos numericos como el sistema ASCII.
  
-#### Numeros 🔢
+#### Numeros 
 Tambien se codifican en binario, usando secuencias de 0 y 1 para reflejar su valor.
 
-#### Imagenes 🖼️
+#### Imagenes 
  Se descomponen en pixeles, cada pixel se representapor un conjunto de bits, lo cual define las caracteristicas de la imagen.
 
 2. Luego de realizar el ejercicio 1, escribe tus conclusiones acerca de la pregunta planteada en la Figura 2. ¿Cuántos estados diferentes pueden ser representados por N variables binarias?
@@ -40,6 +40,7 @@ R/
 
  4. Incluye un pequeño resumen, de un par de renglones, donde menciones la importancia del trabajo de George Bool en este tópico.
 
- R/ El trabajo de George Boole nos permite ahora a permite representar datos y operaciones lógicas mediante valores binarios (0 y 1), lo que se convierte en la base para el almacenamiento, procesamiento y transmisión de información en computadoras. 
+ R/ El trabajo de George Boole nos permite ahora a permite representar datos y operaciones lógicas mediante valores binarios (0 y 1), lo que se convierte en la base para el almacenamiento, procesamiento y transmisión de información en computador.   
+  ‎ 
 
  ![George](../images/28.png) 
