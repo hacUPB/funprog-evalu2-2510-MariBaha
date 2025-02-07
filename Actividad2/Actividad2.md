@@ -19,11 +19,18 @@ Tambien se codifican en binario, usando secuencias de 0 y 1 para reflejar su val
 
 2. Luego de realizar el ejercicio 1, escribe tus conclusiones acerca de la pregunta planteada en la Figura 2. ¿Cuántos estados diferentes pueden ser representados por N variables binarias?
 
-R/
+R/ Cada variable binaria puede tener dos valores posibles: 0 o 1. Si se tienen N variables binarias, cada una puede estar en dos estados de manera independiente de las otras, por lo que el número total de combinaciones posibles que se pueden representar con N variables binaria es= 
+
+*2^N*
+
+**Se deriva con la regla de la muldiplicacion:**
+como cada variable tiene 2 opciones y hay N variables, el número total de combinaciones es 2 multiplicado por sí mismo N veces, lo que da como:
+
+*2^N*
 
 3. ¿Cuáles son las unidades de almacenamiento de datos que se utilizan en computación? Crea una tabla donde muestres estas unidades con sus prefijos. En este caso me refiero a KiloByte, MegaByte, etc. 
 
-R/
+R/ 
 
 | Unidad | Simbolo | Prefijo | Cantidad en bytes |
 |--------------|--------------| ------------ |--------------|
