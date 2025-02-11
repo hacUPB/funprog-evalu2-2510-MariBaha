@@ -1,4 +1,4 @@
-# *Datos Digitales* 🖥️🌌
+# *Datos Digitales* 🖥️
 
 ### Ejercico 1 🤖
 
@@ -51,3 +51,63 @@ R/
   ‎ 
 
  ![George](../images/28.png) 
+   ‎ 
+ # Tipos De Datos 🌌
+### Ejercicio 2
+
+Investiga los diferentes tipos de datos que se utilizan en varios lenguajes de programación (por ejemplo, C, Java, Python). Ten en cuenta cómo cada lenguaje define los números enteros, los decimales (o flotantes), las letras del alfabeto, las cadenas de texto, valores booleanos, entre otros. Investiga qué nombres se asignan y qué abreviaciones se utilizan en cada lenguaje.
+
+
+| Datos | Python | C | Java | C++ |
+|--------------|--------------|-------|---|---|
+| Void | | x|x|
+| Char | | x||x|
+| int  |  |x | x|x|
+| float|  x| x|x|x|
+| str | x|
+| Bool|x ||x|x|
+| Long|||x|x|
+| complex| x|||
+| Double| | x|x|x|
+
+**Python**
+ 
+ |Dato|Tamaño|Rango de valores|
+ |---|---|---|
+ |int|
+ |float|
+ |str|
+ |Bool|
+ |complex|
+
+ **C**
+
+ |Dato|Tamaño|Rango de valores|
+ |---|---|---|
+|void|
+|char|
+|int|
+|float|
+|double|
+
+ **Java**
+
+ |Dato|Tamaño|Rango de valores|
+ |---|---|---|
+ |void|
+ |int|
+ |float|
+ |Bool|
+ |Long|
+ |double|
+
+ **C++**
+
+ |Dato|Tamaño|Rango de valores|
+ |---|---|---|
+ |char|1byte|con signo: -128 to 127/ sin signo: 0 a 255|
+ |int|4bytes|con signo: -2147483648 a 2147483648/ sin signo: 0 a 4294967295|
+ |float|4bytes|3.4e +/- 38 (7 digitos)|
+ |bool|1byte|true o flase |
+ |long|8 bytes|1.7e +/- 308 (15 digitos)|
+ |double|8bytes|1.7e +/- 308 (15 digitos)
