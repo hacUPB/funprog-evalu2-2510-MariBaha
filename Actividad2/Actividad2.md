@@ -72,8 +72,8 @@ Investiga los diferentes tipos de datos que se utilizan en varios lenguajes de p
 
 **Python**
  
- |Dato|Tamaño|Rango de valores|
- |---|---|---|
+ |Dato|Tamaño|
+ |---|---|
  |int|
  |float|
  |str|
@@ -82,18 +82,18 @@ Investiga los diferentes tipos de datos que se utilizan en varios lenguajes de p
 
  **C**
 
- |Dato|Tamaño|Rango de valores|
- |---|---|---|
-|void|
-|char|
-|int|
-|float|
-|double|
+ |Dato|Tamaño|
+ |---|---|
+|void|2byte|
+|char|1byte|
+|int|2byte|
+|float|4bytes|
+|double|8bytes|
 
  **Java**
 
- |Dato|Tamaño|Rango de valores|
- |---|---|---|
+ |Dato|Tamaño|
+ |---|---|
  |void|
  |int|
  |float|
@@ -103,11 +103,11 @@ Investiga los diferentes tipos de datos que se utilizan en varios lenguajes de p
 
  **C++**
 
- |Dato|Tamaño|Rango de valores|
- |---|---|---|
- |char|1byte|con signo: -128 to 127/ sin signo: 0 a 255|
- |int|4bytes|con signo: -2147483648 a 2147483648/ sin signo: 0 a 4294967295|
- |float|4bytes|3.4e +/- 38 (7 digitos)|
- |bool|1byte|true o flase |
- |long|8 bytes|1.7e +/- 308 (15 digitos)|
- |double|8bytes|1.7e +/- 308 (15 digitos)
+ |Dato|Tamaño|
+ |---|---|
+ |char|1byte|
+ |int|4bytes|
+ |float|4bytes|
+ |bool|1byte|
+ |long|8 bytes|
+ |double|8bytes|
