@@ -4,9 +4,15 @@
 
 ¿Cuáles son los símbolos que se utilizan para representar cada operación de un algorimo con un diagrama de flujo?
 
-![Figuras](../images/33.png)
-
-
+1. Rectángulo (Proceso o Acción)
+   
+2. Óvalo (Inicio/Fin)
+   
+3. Rombo (Decisión o Condición)
+ 
+4. Paralelogramo (Entrada/Salida)
+   
+5. Flechas (Conexiones)
 
 ## Ejercicios 🧠
 ### Parte 1: Identificación de algoritmos
