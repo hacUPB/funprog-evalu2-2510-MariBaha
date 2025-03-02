@@ -4,7 +4,7 @@
 
 ¿Cuáles son los símbolos que se utilizan para representar cada operación de un algorimo con un diagrama de flujo?
 
-![Algoritmos](../images/33.png)
+![Figuras](../images/33.png)
 
 
 
