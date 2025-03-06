@@ -10,4 +10,6 @@
 
 ### Reto 3
 
-![Reto3](../images/32.png)
+![Reto3][def]
+
+[def]: ../images/32.png
