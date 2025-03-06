@@ -112,7 +112,7 @@ Investiga los diferentes tipos de datos que se utilizan en varios lenguajes de p
  |long|8 bytes|
  |double|8bytes|
 
- ## Ejercicios 🧠
+ ## Ejercicios 🧠🎯
 
  1. Ahora es tu turno de intentar usar el método. Te voy a proponer varios números binarios y tú vas a convertirlos a decimales utilizando la tabla 3. Recuerda que el subíndice 2 significa que el número es binario (base 2)
 
@@ -176,7 +176,6 @@ $127_{10}$ = $1111111_{10}$
 
 $246_{10}$ = $11110110_{2}$
 ​
- 
 
 ### - $1025_{10}$ a binario
 ​
