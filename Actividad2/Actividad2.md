@@ -111,3 +111,95 @@ Investiga los diferentes tipos de datos que se utilizan en varios lenguajes de p
  |bool|1byte|
  |long|8 bytes|
  |double|8bytes|
+
+ ## Ejercicios 🧠
+
+ 1. Ahora es tu turno de intentar usar el método. Te voy a proponer varios números binarios y tú vas a convertirlos a decimales utilizando la tabla 3. Recuerda que el subíndice 2 significa que el número es binario (base 2)
+
+ 1. $1010101010_2$
+Usamos la tabla para ver qué valores corresponden a cada posición:
+
+1. $1010101010_2$
+Usamos la tabla para ver qué valores corresponden a cada posición:
+
+
+
+1.1010101010 2 =256+64+16+4+1=341 10
+
+2.​11111 2 =16+8+4+2+1= 31 10
+​
+
+3.10000000 2 = 128 = 128 10
+
+4.100100100 2 = 256 + 32 + 4 = 292 10
+
+
+
+2. Vas a convertir los siguientes  números decimales a binarios. Recuerda que el subíndice 10 significa que el número es decimal
+
+### - $127_{10}$ a binario
+
+127 ÷ 2 = 63 (resto 1)
+
+63 ÷ 2 = 31 (resto 1)
+
+31 ÷ 2 = 15 (resto 1)
+
+15 ÷ 2 = 7 (resto 1)
+
+7 ÷ 2 = 3 (resto 1)
+
+3 ÷ 2 = 1 (resto 1)
+
+1 ÷ 2 = 0 (resto 1)
+
+$127_{10}$ = $1111111_{10}$
+
+### - $246_{10}$ a binario
+
+
+246 ÷ 2 = 123 (resto 0)
+
+123 ÷ 2 = 61 (resto 1)
+
+61 ÷ 2 = 30 (resto 1)
+
+30 ÷ 2 = 15 (resto 0)
+
+15 ÷ 2 = 7 (resto 1)
+
+7 ÷ 2 = 3 (resto 1)
+
+3 ÷ 2 = 1 (resto 1)
+
+1 ÷ 2 = 0 (resto 1)
+
+$246_{10}$ = $11110110_{2}$
+​
+ 
+
+### - $1025_{10}$ a binario
+​
+1025 ÷ 2 = 512 (resto 1)
+
+512 ÷ 2 = 256 (resto 0)
+
+256 ÷ 2 = 128 (resto 0)
+
+128 ÷ 2 = 64 (resto 0)
+
+64 ÷ 2 = 32 (resto 0)
+
+32 ÷ 2 = 16 (resto 0)
+
+16 ÷ 2 = 8 (resto 0)
+
+8 ÷ 2 = 4 (resto 0)
+
+4 ÷ 2 = 2 (resto 0)
+
+2 ÷ 2 = 1 (resto 0)
+
+1 ÷ 2 = 0 (resto 1)
+
+$354_{10}$ = $101100010_{2}$
